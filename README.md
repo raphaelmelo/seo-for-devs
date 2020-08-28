@@ -1,4 +1,4 @@
-# SEO para Devs 
+# Guia prático de SEO para Devs 
 
 Este é um guia de SEO para pessoas desenvolvedoras, se você quer estudar e saber como otimizar seu site para o maior mecanismo do mundo, o Google, confira nesse repo variarias dicas que aprendi quando tinha um blog e queria ser o primeiro site nos resultados do Google.
 
