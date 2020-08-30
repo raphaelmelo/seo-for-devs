@@ -24,7 +24,7 @@ Tem uma galera que trampa com SEO desde quando a internet era só mato.
 * Execute testes de compatibilidade e de performance
 	* Google Speed
 	* Google Mobile
-	* 
+ 
 		
 
 ## Ferramentas essenciais 
