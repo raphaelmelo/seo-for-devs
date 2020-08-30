@@ -4,15 +4,13 @@
 
 Este é um guia de SEO para pessoas desenvolvedoras! Se desenvolve aplicações para web e quer saber como "otimizar seu site para o maior mecanismo do mundo, vulgo tio Google", confira nesse repo varias dicas para deixar seu projeto entre os primeiros nos resultados de pesquisa do maior buscador da internet.
 
-Esse é um guia para devs de qualquer nível, nele vou exemplificar cada tema, mas ainda assim se surgir alguma dúvida, me chama no linkedin ou deixe um comentário aqui em baixo, beleza? 
-
 <img src="https://media.giphy.com/media/5fkzHxGP920Ra/giphy.gif" width="100%"/> 
 Tem uma galera que trampa com SEO desde quando a internet era só mato. 
 
 ### Nesse repositório vai ler sobre os seguintes tópicos:**
 
 * Ferramentas essenciais e gratuitas do Google para SEO
-	 * Lição de casa para Devs
+	 * Google 
 * Protocolo HTTPS, este é um item de alta prioridade em SEO
 	* E precisamos falar de URLs
 	* Estrutura do seu site 
@@ -154,4 +152,11 @@ O Google disponibiliza duas ferramentas interessantissimas que nos dão um norte
 
 
 
+
+---
+
+#### Suporte
+Se tiver dúvidas ou quiser contribuir. Abra uma **issue nesse repositório**.   
+
+### SEO para Devs.
 
