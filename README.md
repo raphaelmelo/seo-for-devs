@@ -154,9 +154,22 @@ O Google disponibiliza duas ferramentas interessantissimas que nos dão um norte
 
 
 ---
+## Contribuindo
+As contribuições são o que torna a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são **muito apreciadas**.
 
-#### Suporte
-Se tiver dúvidas ou quiser contribuir. Abra uma **issue nesse repositório**.   
+1. Faça um fork do projeto
+2. Crie sua Feature Branch (`git checkout -b feature / AmazingFeature`)
+3. Faça commit de suas alterações (`git commit -m 'Add some AmazingFeature'`)
+4. Envie para o Branch (`git push origin feature / AmazingFeature`)
+5. Abra um Pull Request
 
-### SEO para Devs.
+## Licença
+
+Distributed under the MIT License. See  `LICENSE`  for more information.
+
+## Contato
+
+Fale comigo (Raphael Melo):  [In](https://[https://www.linkedin.com/in/raphaelgois](https://www.linkedin.com/in/raphaelgois))  -  [Email](mailto:contatowbm@gmail.com)
+
+Link do projeto:  [SEO para Devs](https://github.com/raphaelmelo/seo-for-devs)
 
