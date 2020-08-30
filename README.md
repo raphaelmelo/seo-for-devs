@@ -2,7 +2,7 @@
 
 # Guia prático de SEO para Devs 
 
-Este é um guia de SEO para pessoas desenvolvedoras! Se desenvolve aplicações para web e quer saber como "otimizar seu site para o maior mecanismo do mundo, vulgo tio Google", confira nesse repo varias dicas para deixar seu projeto entre os primeiros nos resultados de pesquisa do maior buscador da internet.
+Este é um guia de SEO para pessoas desenvolvedoras! Se você desenvolve aplicações para web e quer saber como "otimizar seu site para o maior mecanismo do mundo, vulgo tio Google", confira nesse repo varias dicas para deixar seu projeto entre os primeiros nos resultados de pesquisa do maior buscador da internet.
 
 <img src="https://media.giphy.com/media/5fkzHxGP920Ra/giphy.gif" width="100%"/> 
 Tem uma galera que trampa com SEO desde quando a internet era só mato. 
