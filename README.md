@@ -15,7 +15,7 @@ Tem uma galera que trampa com SEO desde quando a internet era só mato.
 	+ Protocolo HTTPS, este é um item de alta prioridade em SEO
 	* E precisamos falar de URLs
 	* Estrutura do seu site 
-	* Títulos de sua página (incluindo a página inicial)
+	* Títulos de suas páginas (incluindo a página inicial)
 	* Otimize as descrições das suas páginas.
 	* Otimize tags de títulos
 	* Foque na sua Palavra-chave
@@ -25,6 +25,7 @@ Tem uma galera que trampa com SEO desde quando a internet era só mato.
 * Execute testes de compatibilidade e de performance
 	* Google Speed
 	* Google Mobile
+
  
 		
 
@@ -148,11 +149,10 @@ Quando se trata do uso de favicon, certifique-se de especificar um favicon perso
 O Google disponibiliza duas ferramentas interessantissimas que nos dão um norte e ajudam pacas na busca da otimização 100%. 
 + [PageSpeed Insights ](https://developers.google.com/speed/pagespeed/insights/) - O PageSpeed Insights (PSI) relata o desempenho de uma página em dispositivos móveis e desktop e fornece sugestões sobre como essa página pode ser aprimorada.
 + [Think with Google ](https://www.thinkwithgoogle.com/intl/pt-br/feature/testmysite/) - Otimize seu site para dispositivos móveis e alavanque os negócios.
+#### Bônus **Lighthouse**
+O Lighthouse é uma ferramenta automatizada de código aberto para melhorar a qualidade das páginas da web. Você pode executá-lo em qualquer página da web, pública ou que exija autenticação. Possui auditorias de desempenho, acessibilidade, aplicativos web progressivos, SEO e muito mais.
 
-
-
-
-
+Para acessala abra seu navegador > navegue até seu site > abra o devtools > clique na **flexinha** ao lado das abas: Elementos | Console | Fontes | Rede | >> e teremos uma aba **Lighthouse**. Clique e "Gere um novo relatório".
 
 ---
 ## Contribuindo
