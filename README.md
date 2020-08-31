@@ -150,9 +150,9 @@ O Google disponibiliza duas ferramentas interessantissimas que nos dão um norte
 + [PageSpeed Insights ](https://developers.google.com/speed/pagespeed/insights/) - O PageSpeed Insights (PSI) relata o desempenho de uma página em dispositivos móveis e desktop e fornece sugestões sobre como essa página pode ser aprimorada.
 + [Think with Google ](https://www.thinkwithgoogle.com/intl/pt-br/feature/testmysite/) - Otimize seu site para dispositivos móveis e alavanque os negócios.
 #### Bônus **Lighthouse**
-O Lighthouse é uma ferramenta automatizada de código aberto para melhorar a qualidade das páginas da web. Você pode executá-lo em qualquer página da web, pública ou que exija autenticação. Possui auditorias de desempenho, acessibilidade, aplicativos web progressivos, SEO e muito mais.
 
-Para acessala abra seu navegador > navegue até seu site > abra o devtools > clique na **flexinha** ao lado das abas: Elementos | Console | Fontes | Rede | >> e teremos uma aba **Lighthouse**. Clique e "Gere um novo relatório".
+O Lighthouse é uma ferramenta automatizada de código aberto para melhorar a qualidade das páginas da web. Você pode executá-lo em qualquer página da web, pública ou que exija autenticação. Possui auditorias de desempenho, acessibilidade, aplicativos web progressivos, SEO e muito mais.
+Para acessa-la, abra seu navegador > navegue até seu site > abra o devtools > clique na **flexinha** ao lado das abas: Elementos | Console | Fontes | Rede | >> e teremos uma aba **Lighthouse**. Clique e "Gere um novo relatório" | Assista nesse video como acessar<a href="https://www.loom.com/share/958b96ec47464e4f9310c523ec4820fd"> videozinho no loom</a>
 
 ---
 ## Contribuindo
