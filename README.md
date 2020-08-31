@@ -11,7 +11,8 @@ Tem uma galera que trampa com SEO desde quando a internet era só mato.
 
 * Ferramentas essenciais e gratuitas do Google para SEO
 	 * Google 
-* Protocolo HTTPS, este é um item de alta prioridade em SEO
+* Lição de Casa para Devs en SEO
+	+ Protocolo HTTPS, este é um item de alta prioridade em SEO
 	* E precisamos falar de URLs
 	* Estrutura do seu site 
 	* Títulos de sua página (incluindo a página inicial)
