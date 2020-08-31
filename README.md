@@ -152,7 +152,7 @@ O Google disponibiliza duas ferramentas interessantissimas que nos dão um norte
 #### Bônus **Lighthouse**
 
 O Lighthouse é uma ferramenta automatizada de código aberto para melhorar a qualidade das páginas da web. Você pode executá-lo em qualquer página da web, pública ou que exija autenticação. Possui auditorias de desempenho, acessibilidade, aplicativos web progressivos, SEO e muito mais.
-Para acessa-la, abra seu navegador > navegue até seu site > abra o devtools > clique na **flexinha** ao lado das abas: Elementos | Console | Fontes | Rede | >> e teremos uma aba **Lighthouse**. Clique e "Gere um novo relatório" | Assista nesse video como acessar<a href="https://www.loom.com/share/958b96ec47464e4f9310c523ec4820fd"> videozinho no loom</a>
+Para acessa-la, abra seu navegador > navegue até seu site > abra o devtools > clique na **flexinha** ao lado das abas: Elementos | Console | Fontes | Rede | >> e teremos uma aba **Lighthouse**. Clique e "Gere um novo relatório" | Assista nesse <a href="https://www.loom.com/share/958b96ec47464e4f9310c523ec4820fd"> videozinho no loom</a> onde está a aba.
 
 ---
 ## Contribuindo
