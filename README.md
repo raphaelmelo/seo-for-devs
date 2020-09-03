@@ -7,7 +7,7 @@ Este é um guia de SEO para pessoas desenvolvedoras! Se você desenvolve aplica�
 <img src="https://media.giphy.com/media/5fkzHxGP920Ra/giphy.gif" width="100%"/> 
 Tem uma galera que trampa com SEO desde quando a internet era só mato. 
 
-### Nesse repositório você vai ler sobre os seguintes tópicos:**
+### Nesse repositório você vai ler sobre os seguintes tópicos:
 
 * Ferramentas essenciais e gratuitas do Google para SEO
 	 * Google 
