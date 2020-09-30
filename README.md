@@ -47,7 +47,7 @@ O objetivo principal do _[Google Analytics](https://analytics.google.com/analyti
 Se tudo deu certo, você já consegue monitorar os acessos da sua página na web como na imagem abaixo: 
 <img src="https://lh3.googleusercontent.com/iQ4FI6ThaFzfpLsT_6xT1EzPww8bcstj347mgP8nLDHkcr0mNLJhkJFkRmwmsQgNfuaYX0hXON07pCleD2w-KOnNF-Do61Y6mo_RA00H667vygC9-3NiKhgKKwc1C3P6C4tcdELK0AsUs8U2RcxEfbHh15tu_f7lrHmDzM3hRyRfgxSniKh_8YVhRCd6uMSGg1eUNDRv373k5e5FCX3182MLq5Ev_fLOjgrc_I1uKA4AtA5lOWL5mBPUFI4YIbn7rHU7W0ejGxr4nS9tPpHvHljLEYvnepJL91CtuGmU3eLn25H9x30beke5ihIBnXY8mB1ZdnOVdvq-a7sWe3KXKxJKD-3O_gvAB8cHCGKF6EQbOg3jS8B3974F0hd7JFuCkwPqWPeHRUvqk-GejnFcLuUZ9gSNCk_aVPnZkyN3xWV9xxuuEZQJtGRjOZI5mmXts5vJAu58Snpt5hFOdE8Dsc5I7PNHd53FgfVax6YFf9NfnMqTD5l6jGIfm1WriUtwkmOqZin15-lv1ga1STLBts1wJCauVkMiG4lt9LF12MaMCfjhfYZU2zTjXLmC687hS1uJjH26w_xWOFb93KmVDAYDdluW8hjELz3l3RyWk3xi_KaS5jAqjY3uGLJauRtmCcnVCwVkbvc8MV0-G5OtRrvq2zOZjNqZjSWYVuZcgZz44B571vJA8jvwGq7Z=w1418-h601-no?authuser=0" />
 
-## Lição de Casa para Devs en SEO
+## Lição de Casa para Devs em SEO
 
 SEO on page é o conjunto de estratégias de otimização para motores de busca realizado dentro das páginas web, com o objetivo de melhorar o tráfego orgânico. As ações realizadas incluem: otimização do conteúdo, ajuste de títulos, intertítulos, imagens, alt-text, meta-tags, URL e mais.
 
